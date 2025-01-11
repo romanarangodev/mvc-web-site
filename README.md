@@ -1,36 +1,14 @@
 # mvc-web-site
-Hybrid app for pet localization
-<table>
+<table width="100%">
 <tr>
-  <td width="33%">
-<h3 align="center">Login</h3>
-<div align="center">
-<img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
-  
-
-
-</div>
-                                                                                      
-</td>
-
-<td width="33%">
+  <td>
 <h3 align="center">Home</h3>
 <div align="center">
-<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+<img src="https://i.imgur.com/BFUUvHb.png" width="85%" alt="login">
   
-
-
 </div>
                                                                                       
 </td>
 
-<td width="33%">
-<h3 align="center">Map</h3>
-<div align="center">                                       
-<img src="https://i.imgur.com/FVYga0y.jpeg" width="250" alt="pet qr map">
-<br>
-
-
-</div>  
-</tr>
 </table>     
+  
