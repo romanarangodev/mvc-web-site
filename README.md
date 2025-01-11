@@ -1,4 +1,13 @@
 # mvc-web-site
+<h3 align="left">Tools and technologies</h3>
+<ul>
+  <li>PHP</li>
+  <li>Jquery</li>
+  <li>Mysql</li>
+  <li>Bootstrap</li>
+  <li>MVC Pattern</li>
+  <li>CSS</li>
+</ul>
 <table width="100%">
 <tr>
   <td>
